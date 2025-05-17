@@ -20,7 +20,7 @@ This tool uses Natural Language Processing (NLP) to instantly generate multiple-
 - Google Colab (for demo)
 
 ## Demo
-[Open in Google Colab](https://colab.research.google.com/...)  
+[Open in Google Colab](https://colab.research.google.com/drive/1RtCZ6pDayKHjkZVaGWKpV7tJd4sTz9Zy#scrollTo=UuWlrb3gqXBX)  
 [Live App on Hugging Face Spaces](https://huggingface.co/spaces/kyauly/quiz-maker)
 
 ## How to Use
