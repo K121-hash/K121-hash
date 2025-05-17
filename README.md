@@ -21,7 +21,7 @@ This tool uses Natural Language Processing (NLP) to instantly generate multiple-
 
 ## Demo
 [Open in Google Colab](https://colab.research.google.com/drive/1RtCZ6pDayKHjkZVaGWKpV7tJd4sTz9Zy#scrollTo=UuWlrb3gqXBX)  
-[Live App on Hugging Face Spaces](https://huggingface.co/spaces/kyauly/quiz-maker)
+[Live App on Hugging Face Spaces](https://huggingface.co/spaces/Kyauly/quiz-maker)
 
 ## How to Use
 1. Paste your lesson content in the input box
