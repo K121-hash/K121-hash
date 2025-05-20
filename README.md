@@ -6,7 +6,7 @@ This project generates quiz questions automatically from lesson content using a 
 Creating educational quizzes manually is time-consuming. Instructors and learners need faster ways to assess understanding.
 
 ## Solution
-This tool uses Natural Language Processing (NLP) to instantly generate multiple-choice or short-answer questions from a given paragraph or lesson content.
+This tool uses Natural Language Processing (NLP) to instantly generate questions from a given paragraph or lesson content.
 
 ## How It Works
 - Input any educational content (e.g., article, textbook paragraph)
